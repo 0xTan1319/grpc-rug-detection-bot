@@ -1,4 +1,8 @@
-# *Geyser grpc Rug Detection Bot (Still in development, don't use it)*
+# *Geyser grpc Rug Detection Bot*
+
+## Contact
+
+If you need help or any question, contact here: [Telegram](https://t.me/shiny0103)  [Twitter](https://x.com/0xTan1319)
 
 ## How it works
 
